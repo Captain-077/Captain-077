@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Captain-077/Captain-077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+👩‍💻 About Me
+👩🏻‍💻 Pronouns: he/him
+📋 I've previously worked as frontend developer at adaan digital and instaeve
+🎒 I've done almost 6-7 internships in frontend primarily.
+👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms.
+🧭 I love exploring and working both in frontend and backend.
+🎭 I love speaking at events and connecting with people.
+📫 How to reach me: Check social links below.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Languages and Tools
+
+☕ Hit Me Up Here
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
