@@ -3,10 +3,8 @@
 👩‍💻 About Me
 👩🏻‍💻 Pronouns: he/him
 📋 I've previously worked as frontend developer at adaan digital and instaeve
-🎒 I've done almost 6-7 internships in frontend primarily.
-👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms.
 🧭 I love exploring and working both in frontend and backend.
-🎭 I love speaking at events and connecting with people.
+🎭 I love speaking and connecting with people.
 📫 How to reach me: Check social links below.
 
 
