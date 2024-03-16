@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-077&label=Profile%20views&color=0e75b6&style=flat" alt="captain-077" /> </p>
 
-- 🔭 I’m currently working on [dfdf](dfdf)
+- 🔭 I’m currently working on react
 
-- 👯 I’m looking to collaborate on [dfdfd](fdfd)
-
-- 🤝 I’m looking for help with [dfdf](dfd)
+- 👯 I’m looking to collaborate on frontend roles
 
 - 👨‍💻 All of my projects are available at [dfdf](dfdf)
 
