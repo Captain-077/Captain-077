@@ -9,7 +9,7 @@
 
 - 👨‍💻 A student management App created by me: <a href="https://student-manage-system.vercel.app/">Live link</a> 
 
-- 👨‍💻 All of my projects are available at <a href="https://student-manage-system.vercel.app/">Live link</a> 
+- 👨‍💻 All of my projects are available at: <a href="https://nakulsaini-portfolio.vercel.app/">Live link</a> 
 
 - 💬 Ask me about **react**
 
