@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [dfdf](dfdf)
 
-- 📝 I regularly write articles on [fdfd](fdfd)
+- 📝 A student management App created by me: <a href="https://student-manage-system.vercel.app/">Live link</a> 
 
 - 💬 Ask me about **react**
 
