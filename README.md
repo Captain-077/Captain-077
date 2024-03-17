@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **nakuldesigner77@gmail.com**
 
-- 📄 Know about my experiences [fdfd](fdfd)
-
-- ⚡ Fun fact **fd**
+- 📄 Know about my experiences [Resume](fdfd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
