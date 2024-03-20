@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on frontend roles
 
-- 👨‍💻 A student management App created by me: <a href="https://student-manage-system.vercel.app/">Live link</a> 
+- 👨‍💻 A student management App created by me: <a href="https://student-manage-system.vercel.app/" target="_blank">Live link</a> 
 
-- 👨‍💻 Check out my personal portfolio: <a href="https://nakulsaini-portfolio.vercel.app/">Live link</a> 
+- 👨‍💻 Check out my personal portfolio: <a href="https://nakulsaini-portfolio.vercel.app/" target="_blank">Live link</a> 
 
 - 📫 How to reach me **nakuldesigner77@gmail.com**
 
-- 📄 Know about my experiences <a href="https://nakulsaini-portfolio.vercel.app/static/media/Google%20Doc%20ATS%20NEW.d0bd90904e90028529a1.pdf">Resume</a> 
+- 📄 Know about my experiences <a href="https://nakulsaini-portfolio.vercel.app/static/media/Google%20Doc%20ATS%20NEW.d0bd90904e90028529a1.pdf" target="_blank">Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
