@@ -11,8 +11,6 @@
 
 - 👨‍💻 Check out my personal portfolio: <a href="https://nakulsaini-portfolio.vercel.app/">Live link</a> 
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **nakuldesigner77@gmail.com**
 
 - 📄 Know about my experiences <a href="https://nakulsaini-portfolio.vercel.app/static/media/Google%20Doc%20ATS%20NEW.d0bd90904e90028529a1.pdf">Resume</a> 
